@@ -82,8 +82,8 @@ WHERE sale_date = '2022-11-05';
 SELECT *
 FROM retail_sales
 WHERE category = 'Clothing'
-	  AND quantiy >= 4
-	  AND to_char(sale_date, 'YYYY-MM') = '2022-11'
+      AND quantiy >= 4
+      AND to_char(sale_date, 'YYYY-MM') = '2022-11'
 ```
 
 3. **Write a SQL query to calculate the total sales (total_sale) for each category.**:
