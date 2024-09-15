@@ -191,7 +191,7 @@ This project provides a comprehensive introduction to SQL tailored for data anal
 
 The SQL queries developed through this project have illuminated key aspects of sales patterns, customer behavior, and product performance. These insights offer valuable perspectives on trends, anomalies, and opportunities, enabling data-driven decision-making. For instance, analyzing customer behavior can enhance marketing strategies.
 
-By translating raw data into meaningful findings, this project not only supports informed business decisions but also demonstrates the power of SQL in uncovering actionable insights that drive business success and strategic growth.
+By transforming raw data into meaningful findings, this project not only supports informed business decisions but also demonstrates the power of SQL in uncovering actionable insights that drive business success and strategic growth.
 
 ## How to Use
 
