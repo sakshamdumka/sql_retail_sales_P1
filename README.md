@@ -187,7 +187,7 @@ GROUP BY shift
 
 ## Conclusion
 
-This project provides a comprehensive introduction to SQL tailored for data analysts, encompassing essential tasks from database setup to advanced business-driven queries. By methodically establishing the database schema, executing thorough data cleaning, and performing exploratory data analysis, we’ve laid a strong foundation for insightful and actionable business intelligence.
+This project provides a comprehensive introduction to SQL tailored for data analysis, encompassing essential tasks from database setup to advanced business-driven queries.
 
 The SQL queries developed through this project have illuminated key aspects of sales patterns, customer behavior, and product performance. These insights offer valuable perspectives on trends, anomalies, and opportunities, enabling data-driven decision-making. For instance, analyzing customer behavior can enhance marketing strategies.
 
